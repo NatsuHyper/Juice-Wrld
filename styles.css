@@ -1,0 +1,80 @@
+.juice {
+    width: 400px;
+    font-size: 20px;
+    height: 270px;
+    border: 2px solid red;
+    padding: 5px;
+    margin: 15px;
+}
+
+.Links {
+    background-color: lightgrey;
+}
+
+.text2 {
+    font-family: 'Inspiration', cursive; border:2px solid blue; margin: 15px;
+}
+
+.link2 {
+    background-color: lightgrey;
+}
+
+.text2 {
+    display: flex;
+    justify-content: center;
+    display: flex;
+
+}
+
+.link {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title {
+    font-family: 'Lobster', cursive;
+}
+
+.text1 {
+    font-family: 'Inspiration', cursive;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: blue;
+}
+
+body {
+    background-color: #D3D3D3;
+}
+
+.Juice {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.link {
+    border: 2px solid blue;
+}
+
+.navi {
+    display: flex;
+    justify-content: center;
+}
+
+.group {
+    display: flex;
+}
+
+.big {
+    border: 2px solid red;
+    padding: 5px;
+    margin: 15px;
+    display: flex;
+    justify-content: flex-end;height: 350px;
+}
